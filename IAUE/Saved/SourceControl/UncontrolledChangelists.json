@@ -5,11 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"X:/Repos/UE/IAue/IAUE/Content/ThirdPerson/Blueprints/BP_FirstNPC.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Character/BP_FirstNPC.uasset",
-				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Controller/IA_Controller.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Controller/IA_ControllerNPC.uasset",
-				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Character/BP_SimpleNPC.uasset"
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Character/BP_SimpleNPC.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/Behavior_Threes/BT_SimpleNPC.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Task/BTTask_MoveToRandomLoc.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/Blackboard/BB_SimpleNPC.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/F6/434V57FJRWD7DRRGZOIIXH.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PE/FLDTGRUL8MFAVZGKT7ALY9.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CE/33CVOX7ME3YQNT5Q60EQ2Y.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YP/8GU1W6D3BHUIM9HWMG1QR2.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3Z/HRWDOTNQ0SP9V6G0Z9O13K.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KW/AUK5A2I2VKD7FKZY186IBJ.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/61/CDDLEIVP81ND5BRKR5O942.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/8I/PXMLIMOE3UGX54Q4RYPP6J.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/T5/55N4D4V1GEP1P7OAW8K5Y7.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/J2/HGW1PGAHL2GZLO28U5KF7G.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2L/1IQT9MRR4FL2W0RDJ5BZY4.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LG/9Y04Z0SII4HPLDZBOYS2IG.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/ThirdPerson/Blueprints/BP_FirstNPC.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Controller/IA_Controller.uasset"
 			]
 		}
 	]
