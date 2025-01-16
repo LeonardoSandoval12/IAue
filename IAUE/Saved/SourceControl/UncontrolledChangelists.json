@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/Repos/UE/IAue/IAUE/Content/ThirdPerson/Blueprints/BP_FirstNPC.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Character/BP_FirstNPC.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Controller/IA_Controller.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Controller/IA_ControllerNPC.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Character/BP_SimpleNPC.uasset"
+			]
+		}
+	]
+}
