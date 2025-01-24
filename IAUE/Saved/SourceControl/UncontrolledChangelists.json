@@ -27,6 +27,9 @@
 				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LG/9Y04Z0SII4HPLDZBOYS2IG.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Controller/IA_PerceptionNPC.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/Decorators/BT_DecoratorCheckScale.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Task/BT_ClearBlackboardValue.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/ThirdPerson/Blueprints/BP_FirstNPC.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Controller/IA_Controller.uasset"
 			]
