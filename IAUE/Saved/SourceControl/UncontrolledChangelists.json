@@ -30,6 +30,15 @@
 				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Task/BT_ClearBlackboardValue.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/Actors/AIObject_PatrolPath_Point.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MF/0J5WJ151W83ZL9U20T98F6.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/Actors/AIBehavior.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZU/J6XVCKOBI4CKGS5VRHTDTM.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TV/Y71OPI2WA55W9FJ9DSEA1A.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/RX/FGFIUDTTS7AKR23B8KUFSZ.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EB/ZVBZVA7WI0JV7TZ6XWFWJ2.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DL/2UY98RDO1LQA5R6MLY1G7U.uasset",
+				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Task/BTTask_PathPatrol.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/ThirdPerson/Blueprints/BP_FirstNPC.uasset",
 				"X:/Repos/UE/IAue/IAUE/Content/IA_bp/IA_Controller/IA_Controller.uasset"
 			]
