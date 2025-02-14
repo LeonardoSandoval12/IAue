@@ -10,14 +10,12 @@ Este proyecto tiene como objetivo probar y analizar el comportamiento de agentes
 - ✅ **Integración con Behaviour Trees** para decisiones complejas.
 - ✅ **Detección de obstáculos y reacciones en tiempo real**.
 - ✅ **Sistema de Waypoints para definir rutas de navegación**.
-- ✅ **Registro de datos en consola para análisis de patrones**.
 
 ## 🛠️ Tecnologías y Herramientas
 - 🎮 **Motor de Juego:** Unity (C#) / Unreal Engine (Blueprints o C++)
 - 🚀 **Pathfinding:** NavMesh / AI Controller
 - 🧠 **AI System:** Behaviour Trees, State Machine
 - 📡 **Sensores:** Raycasts, Colliders, Percepción AI (Unreal)
-- 🔍 **Depuración:** Logs en Consola y Herramientas de Debug
 
 ## 📥 Instalación y Uso
 
